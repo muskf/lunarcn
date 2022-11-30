@@ -19,3 +19,5 @@
 * [如何将Lunar CN创建到桌面](ru-he-jiang-lunar-cn-chuang-jian-dao-zhuo-mian.md)
 * [为什么使用Lunar CN帧数低](wei-shi-mo-shi-yong-lunar-cn-zhen-shu-di.md)
 * [为什么出现 pythonw错误](wei-shi-mo-chu-xian-pythonw-cuo-wu.md)
+* [我已经尝试以上所有方法](wo-yi-jing-chang-shi-yi-shang-suo-you-fang-fa.md)
+* [为什么我不能启动游戏](wei-shi-mo-wo-bu-neng-qi-dong-you-xi.md)
