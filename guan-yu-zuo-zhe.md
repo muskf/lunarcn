@@ -4,7 +4,7 @@ description: 关于LC-CN的作者
 
 # 关于作者
 
-作者:<mark style="color:green;">Chenmy1903</mark>
+作者:<mark style="color:green;">CubeWhy</mark>
 
 B站:[<mark style="color:green;">https://space.bilibili.com/1106744676</mark>](https://space.bilibili.com/1106744676)<mark style="color:green;"></mark>
 

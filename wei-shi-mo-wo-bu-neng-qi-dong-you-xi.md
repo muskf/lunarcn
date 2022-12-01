@@ -1,26 +1,18 @@
 # 为什么我不能启动游戏
 
-Win键(就是你键盘上Windows图标的键)+R键 一起按
+请尝试重装系统，如果你修改做LC-CN，请检查参数设置
 
-![](<.gitbook/assets/image (1).png>)
+### 还原JavaAgents
 
-输入cmd,回车
+找到\<lc-cn文件夹>\resources\javaagents，删掉里边的所有文件
 
-输入java -version
+### 还原参数
 
-![](<.gitbook/assets/image (6).png>)
+关闭启动器，然后找到\<lc-cn文件夹>\resources\app，找到renderer.js，右键选择记事本打开，修改参数部分
 
-查看java版本是否是java17
+改成\`const c\_jvm\_args = \["-server"]\`然后保存即可
 
-如果不是,推荐更换java17
+### 这些操作我都做完了为什么我还是无法启动
 
-强烈推荐zulu jdk 17
-
-32位:[https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-win\_i686.msi](https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-win\_i686.msi)
-
-64位:[https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-win\_x64.msi](https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-win\_x64.msi)
-
-如果你分不清你的电脑是32位还是64位,请下载64位
-
-下载完成后双击安装,如有不动自行百度
+建议重装系统...
 

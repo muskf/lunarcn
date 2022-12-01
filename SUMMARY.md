@@ -21,3 +21,7 @@
 * [为什么出现 pythonw错误](wei-shi-mo-chu-xian-pythonw-cuo-wu.md)
 * [我已经尝试以上所有方法](wo-yi-jing-chang-shi-yi-shang-suo-you-fang-fa.md)
 * [为什么我不能启动游戏](wei-shi-mo-wo-bu-neng-qi-dong-you-xi.md)
+
+## 关于封禁 <a href="#about-ban" id="about-ban"></a>
+
+* [为什么会封禁](about-ban/why-i-got-banned.md)
