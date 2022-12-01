@@ -4,7 +4,7 @@ description: how to install
 
 # 如何安装Lunar CN
 
-待下载完成后,你需要确定你的电脑内有Lunar CN文件包,<mark style="color:red;">pyhton环境</mark>,以及解压软件
+待下载完成后,你需要确定你的电脑内有Lunar CN文件包,pyhton环境,以及解压软件
 
 首先创建一个文件夹,名称无限制
 
