@@ -28,6 +28,7 @@
 * [使用Lunar CN会被ban吗](shi-yong-lunar-cn-hui-bei-ban-ma.md)
 * [lc-cn可以注入吗](lccn-ke-yi-zhu-ru-ma.md)
 * [Lunar CN怎么开挂](lunar-cn-zen-mo-kai-gua.md)
+* [为什么出现PDF解压失败](wei-shi-mo-chu-xian-pdf-jie-ya-shi-bai.md)
 
 ## 关于封禁 <a href="#about-ban" id="about-ban"></a>
 
