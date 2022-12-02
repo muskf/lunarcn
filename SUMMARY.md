@@ -35,3 +35,7 @@
 ## 关于封禁 <a href="#about-ban" id="about-ban"></a>
 
 * [为什么会封禁](about-ban/why-i-got-banned.md)
+
+***
+
+* [QQ群黑列表](qq-qun-hei-lie-biao.md)
