@@ -24,6 +24,7 @@
 * [ffmpeg错误](ffmpeg-cuo-wu.md)
 * [别人能看见我的全饰品吗](bie-ren-neng-kan-jian-wo-de-quan-shi-pin-ma.md)
 * [为什么我选择饰品后看不见我的饰品](wei-shi-mo-wo-xuan-ze-shi-pin-hou-kan-bu-jian-wo-de-shi-pin.md)
+* [Lunar CN会盗号吗](lunar-cn-hui-dao-hao-ma.md)
 
 ## 关于封禁 <a href="#about-ban" id="about-ban"></a>
 
