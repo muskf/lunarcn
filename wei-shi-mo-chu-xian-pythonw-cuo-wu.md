@@ -10,4 +10,6 @@ description: 与LC-QT没有任何关系, 请不要LowIQ
 
 1.排查是否使用bat启动
 
-2.排查python环境是否正常
+2.把lc-cn文件放到桌面上
+
+3.删除运行目录空格和中文
