@@ -26,6 +26,7 @@
 * [为什么我选择饰品后看不见我的饰品](wei-shi-mo-wo-xuan-ze-shi-pin-hou-kan-bu-jian-wo-de-shi-pin.md)
 * [Lunar CN会盗号吗](lunar-cn-hui-dao-hao-ma.md)
 * [使用Lunar CN会被ban吗](shi-yong-lunar-cn-hui-bei-ban-ma.md)
+* [lc-cn可以注入吗](lccn-ke-yi-zhu-ru-ma.md)
 
 ## 关于封禁 <a href="#about-ban" id="about-ban"></a>
 
