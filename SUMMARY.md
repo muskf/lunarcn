@@ -22,6 +22,8 @@
 * [我已经尝试以上所有方法](wo-yi-jing-chang-shi-yi-shang-suo-you-fang-fa.md)
 * [为什么我不能启动游戏](wei-shi-mo-wo-bu-neng-qi-dong-you-xi.md)
 * [ffmpeg错误](ffmpeg-cuo-wu.md)
+* [别人能看见我的全饰品吗](bie-ren-neng-kan-jian-wo-de-quan-shi-pin-ma.md)
+* [为什么我选择饰品后看不见我的饰品](wei-shi-mo-wo-xuan-ze-shi-pin-hou-kan-bu-jian-wo-de-shi-pin.md)
 
 ## 关于封禁 <a href="#about-ban" id="about-ban"></a>
 
