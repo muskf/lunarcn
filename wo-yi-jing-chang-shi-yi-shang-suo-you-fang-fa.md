@@ -6,7 +6,7 @@
 
 Win键(就是你键盘上Windows图标的键)+R键 一起按
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
 输入 <mark style="color:green;">%userprofile%/.lunarclient</mark> 点击确定或者回车
 
@@ -16,7 +16,7 @@ Win键(就是你键盘上Windows图标的键)+R键 一起按
 
 全选
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (2).png>)
 
 右键,删除,在回收站中彻底删除
 
