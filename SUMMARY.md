@@ -31,6 +31,7 @@
 * [为什么出现PDF解压失败](wei-shi-mo-chu-xian-pdf-jie-ya-shi-bai.md)
 * [如何自定义lc-cn页面](ru-he-zi-ding-yi-lccn-ye-mian.md)
 * [Failed to load问题](failed-to-load-wen-ti.md)
+* [新版LC-CN无法启动](xin-ban-lccn-wu-fa-qi-dong.md)
 
 ## 关于封禁 <a href="#about-ban" id="about-ban"></a>
 
